@@ -1,6 +1,6 @@
 - 👋 Hi, I’m FRANCIS
 - 👀 I’m interested in becoming a DEVELOPER
-- 🌱 I’m currently learning Dart, HTML, JAVASCRIPT and PYTHON
+- 🌱 I’m currently learning Dart, HTML, JAVASCRIPT 
 - 📫 How to reach me francisnyamekye48@icloud.com
 
 <!---
